@@ -1,0 +1,122 @@
+PERCUSSION DIVERSITY ANALYSIS - DETAILED RESULTS
+============================================================
+
+DIVERSITY METRICS:
+------------------------------------------------------------
+overall_variance: 0.9285714285714286
+feature_variances:
+  spectral_centroid: 1.0000000000000009
+  spectral_spread: 1.0
+  spectral_rolloff: 0.9999999999999997
+  spectral_flatness: 0.9999999999999999
+  spectral_bandwidth: 0.9999999999999994
+  zero_crossing_rate: 1.0000000000000007
+  odd_even_ratio: 1.0000000000000009
+  inharmonicity: 0.0
+  attack_time: 1.0000000000000002
+  decay_time: 1.0000000000000004
+  rms_mean: 0.9999999999999988
+  rms_std: 1.0000000000000004
+  temporal_centroid: 1.0
+  log_attack_time: 0.9999999999999998
+pca_components_95: 8
+pca_variance_ratios:
+  [0.30442157447106977, 0.2390035275552958, 0.17010864922918575, 0.08179280434973746, 0.0711653517000153, 0.05259711632037329, 0.02827583293221253, 0.017525015041373552, 0.013585829305446424, 0.010424268882787113, 0.006157309913023128, 0.0034213550833171002, 0.0015213652161629257, 1.2111954758384232e-34]
+mean_pairwise_distance: 4.820890619454115
+std_pairwise_distance: 1.7215510578278352
+max_pairwise_distance: 12.147631303840875
+spectral_diversity: 1.0000000000000002
+temporal_diversity: 0.9999999999999999
+composite_diversity_index: 0.7885391514529613 (let's save this)
+num_sound_types: 3
+sound_distribution:
+  [59, 52, 17]
+silhouette_score: 0.2034674246383121
+
+
+FEATURE STATISTICS:
+------------------------------------------------------------
+
+spectral_centroid:
+  mean: 5107.021410
+  std: 457.039624
+  min: 3833.631306
+  max: 6060.919822
+
+spectral_spread:
+  mean: 5223.618354
+  std: 281.037785
+  min: 4356.309143
+  max: 5755.737742
+
+spectral_rolloff:
+  mean: 9481.819688
+  std: 1264.915993
+  min: 6609.865159
+  max: 12934.829477
+
+spectral_flatness:
+  mean: 0.028174
+  std: 0.013746
+  min: 0.002525
+  max: 0.065546
+
+spectral_bandwidth:
+  mean: 5106.899710
+  std: 315.290063
+  min: 3955.309686
+  max: 5727.846063
+
+zero_crossing_rate:
+  mean: 0.071773
+  std: 0.038972
+  min: 0.003193
+  max: 0.183331
+
+odd_even_ratio:
+  mean: 1.347022
+  std: 0.341815
+  min: 0.702944
+  max: 2.834440
+
+inharmonicity:
+  mean: 0.000000
+  std: 0.000000
+  min: 0.000000
+  max: 0.000000
+
+attack_time:
+  mean: 0.100240
+  std: 0.088995
+  min: 0.000227
+  max: 0.297143
+
+decay_time:
+  mean: 0.000114
+  std: 0.000077
+  min: 0.000045
+  max: 0.000771
+
+rms_mean:
+  mean: 0.000239
+  std: 0.000087
+  min: 0.000105
+  max: 0.000522
+
+rms_std:
+  mean: 0.000082
+  std: 0.000052
+  min: 0.000009
+  max: 0.000253
+
+temporal_centroid:
+  mean: 0.141087
+  std: 0.017559
+  min: 0.096548
+  max: 0.190718
+
+log_attack_time:
+  mean: -1.239727
+  std: 0.545484
+  min: -3.642528
+  max: -0.527033

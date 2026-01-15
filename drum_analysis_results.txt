@@ -1,0 +1,21 @@
+DRUM RHYTHM PATTERN ANALYSIS RESULTS
+============================================================
+
+onset_count: 127
+onset_times: [array with 127 elements]
+tempo: 151.99908088235293
+beat_count: 74
+beat_times: [array with 74 elements]
+onset_interval_mean: 0.23616168160385845
+onset_interval_std: 0.1762025553837363
+onset_regularity: 0.253890156154539
+beat_interval_std: 0.013997396268197697
+beat_regularity: 0.9861958262223236
+hits_per_beat: 1.7162162162162162
+complexity_category: Simple (sparse pattern)
+syncopation_ratio: 0.3858267716535433
+off_beat_hits: 49
+groove_interval: 0.19824036281179028
+groove_bpm: 302.66288433382306
+duration: 30.0
+pattern_density: 4.233333333333333
